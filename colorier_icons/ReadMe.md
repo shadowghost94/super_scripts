@@ -1,4 +1,4 @@
-#COLORIER UNE ICON PNG
+#COLORIER UNE ICON PNG  
 ##Ce script Python permet de colorier des image/icon au format PNG. Il modifie les couleurs des pixels en fonction  de vos paramètres ou algorithmes définis, et génère une nouvelle image/icon coloriée.
 ### Fonctionnalités :
 - Applique des couleurs personnalisées à une image/icon PNG.
